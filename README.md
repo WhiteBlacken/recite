@@ -284,7 +284,310 @@ be on good terms with
 * the police tracked the terrorists to their hide-out.
 ### tradition
 * uphold the revolutionary tradition
-### ultimate `4` base
+### ultimate `4` base (终极)
 * his ultimate aim is to win the gold medal
 * the utimate ability of athlete
-* 
+* the sun is the base store of power = base
+* the ultimate luxury if the trip was flying in Boeing
+### estimate/rate/value
+### underlie  `2`
+* his carelessness underlay his failure. = constitute the basis of /provoke
+### underlying
+* underlying cause
+### underline `2`
+* the rice crisis **underlined an embarrassing problem** that the government faced. = hightlight/spotlight/stress
+### understand `2`
+* i understand him to be my relative = hear about  
+he understands her suggestion as a complaint = deeem/suggest
+### understanding   `2` 
+>reach/come to /arrive at an understanding with sb. 
+* comprehension
+* because **he is understanding**,people around her **confide in** her. = be reasonable and fair/show common sense
+### uneasy
+### union `3`  
+>unionism
+* they work together in perfect union = harmony
+* union is strength
+* students' union
+### vain    `2`
+* make a vain attempt  
+in vain = useless/fruitless
+* vain(glory)/vanity/proud/conceited
+### variation `2`
+* change/fluctuate
+* the variation helps the living creatures to adapt to new environment
+### vast `2`
+* the snowstrom swept the vast expanse of grassland
+* vast amount of 
+### wander `4`
+* huant
+* wander in the way = lose one's way
+* don't let your thoughts wander
+* he wanders in his talk
+### want `2`
+* a want of politeness
+### weak `3`
+* her Russian is usually weak.
+* the tea is too weak for me
+### wear
+* wear away one's youth in trifles
+* wear down
+* wear off
+* wear out
+### weary `2`
+### weird `2`
+* bizarre
+* fate/destiny/fortune
+### weld `2`
+* weld steel
+* **weld** a bunch of **untrained recruits** into an efficient fighting force = unite
+### welfare
+* for sb's welfare
+### whirl `2+1.5`
+* the couples whirled round the dance floor
+* my senses were whirling. = confused
+### whisper `2`
+* speak in whisper
+* scandal/rumour/gossip
+### youth
+* full of youth and vitality
+### zigzag `3`
+* a zigzag road
+* his life is full of zigzags
+* the narrow path zigzags up the cliff
+### zone
+* a dange zone/a zone in depth
+* the zone of action = region/district/area
+* the town was zoned for downtown and outskirts
+### zoom `3`  
+>zoom in/out
+* the zoom of mosquitos kept me awake
+* jack went zooming past in his new car
+* overnight trading caused share prices to zoom up
+## collection3
+### radiant `2`
+* the radiant sun
+* the radiant face/you look absolutely radiant
+### radiate `2`  
+>radiator
+* the sun radiated light and heat
+* there was a tenderness that radiated from her
+### radical `3`
+* the radical idea of a system/a radical error
+* a radical change/in radical language
+* he used to be a radical and has thought better of it
+### judgement `2`
+* make a judgement 
+* use your own judgement/an error of judgement/reverse judgement/in one's judgement
+### ideal  
+>ideolgy
+* an ideal marriage
+* the ideal system of government
+* i am looking for a house in the country but haven't found my ideal yet
+### identical `2`  
+>identically
+* wear the identical dress
+* be identical to/with
+### identify `2`  
+>identify oneself with sb./sth. = support/have connection with
+* never identify opinion with facts
+* he identify the coat as his brothers
+### justice `3`  
+>in justic to   
+do justice to sb./sth.  
+bring sb. to justice  
+* all men should be treated with justice = fair
+* the courts ensure that justice is achieved
+* Andrew will be sworn  in today as a justice on the Supreme court. /chief justice
+### knit `2` weld  
+>knit one's brow/up to one's eyebrow
+* knit her husband a sweater
+* the broken bones hava knit well
+### label `2`
+* classify
+### lag `2`
+* lag behind
+* a definite laging came in business and industry.
+### lateral `3`
+* lateral move
+* a lateral ideal
+* the lateral part of your tongue
+### magnify `2`
+* use the magnifier to magnify the sample = boost/amplify
+* magnify the part he played in the battle = boast/overstate
+### maintain `4`
+* maintain friendly relationship
+* maintain machinery
+* maintain his wife and two children
+* i maintain that/i suspect that
+### majority `3`
+* the draft resolution was adopted by a marjority of 128
+* she is reached her marjority
+= lawful/legal age
+### make    `3`  
+>make  a deal with  
+make for/course  
+make out  
+make up for
+* three more members will make a quorum
+* medical knowledge alone doesn't make a good doctor
+### oblige `3`  
+>oblige to sb.  
+oblige sb. to do
+* the law obliges parents to send their children to school
+* could you oblige us with a song
+* i would obliged if you wouldn't say so
+### obscure `3`
+* the moon was obscured by clouds
+* words that obscure the truth must be discarded
+* an obscure text/an obscure poet
+### observation `2`  
+>be/come under observation  
+keep sb. under observation
+* a man of narrow obervation
+* pulish a observation on Janpanese bird life
+### observe `2`
+* observe the rule
+### obsession 
+* be obsession with painting began his childhood
+* he has many obsessions
+### panel `3`
+* the panel are all experts in their various subjects
+### panorama `2`
+* overall view
+* conspectus/introduction
+### qualification `3` 
+>qualify
+* the contract has several qulifications for both party = constrain
+* she has a secretarial qualification
+### savage `2`
+* savage forest
+* savage bad manners
+### scale `4`
+* the rule have only one scale in centimeter
+* a platform scale
+* the scale of the map is one inch to fifty miles
+* the company has increased in scale = size/scope
+### scene `2`  
+>scenery
+* now China has a scene of prosperity
+* the scene in hospital is very moving/behind the scenes (abstract concept)
+### meditate `2`  
+>meditative
+* i meditate to relax
+* meditate revenge,mischief
+### medium `3`
+* strike a medium
+* the air is a medium for sound waves
+* there is an effective medium
+### elegant   `2`
+* the girl has a life of elegant ease
+* the painting impressed me with its elegant simplicity
+### element `4`
+* ceils are the elements of the human body
+* an element of truth
+* the elements of psychology
+* air is the essential elements of man and animals
+### elementary `2`
+* elementary arithmetic = primary/advance
+* elementary questions = easy
+### eliminate  `3`
+* eliminate pain
+* eliminate the enemy
+* he was eliminated in the first round = washout/crash out
+### absence `2`
+* be in his absence from class
+* the absence of salt in that dish makes it tasteless
+### absent `2`
+* be absent from the meeting
+* absent expression
+### abroad `2`  
+> at home and abroad
+* spread abroad
+### absolute `3`
+* you are an absolute fool
+* the absolute power
+* the absolute truth
+### absorb `4`  
+>absorbent  
+absorbing  
+absorption = devote one's heart and soul to/be indulged in
+* absorb one's attention
+* sponge absorbs water
+* work absorbs most of his time = occupy
+* he couldn't absorb the additional hardships = bear/endure
+### abstract `3`  
+>abstraction
+* abstract concept = concrete
+* make an abstract of = conspectus/introduction/panorama/summary/outline
+* abstract iron from substance
+### bare `3` 
+>lay bare the truth
+* bare head
+* a bare possibility
+* he hesitated a bare second/i shudder at the bare idea of it 
+### bargain `2`
+* bargain for/over/about  
+it was a really bargain 
+* a bargain between the two opponents = contract
+### capacity `4`
+* in this capactiy
+* the reasoning capacity
+* have a infinite capacity for criticism
+* the gymnasium has a seating capacity of 50000
+### capital
+* please write in capital
+* the prime minister made a capital speach = elaborate the speech
+* capital construction is going on smoothly
+* capital crime/punishment
+### case `2`  
+>in any case 
+in case of 
+in no case
+* could you give us a concrete case
+* a case of murder
+### cast `4`
+* cast baseketball
+* cast as the villain  
+the part was cast to him
+* cast a statue
+* choose the cast
+### catch `4`  
+>catching = infective/communicable
+* catch the escaped criminal
+* catch the train
+* catch the disease
+* understand
+### cautious  
+>incautious
+### ceremony `2`  
+>ceremonious
+* graduation ceremony
+* there too much ceremony at official dinners
+### certify `2`
+* prove
+* certify the teacher
+### decline `3`  
+>on the decline  
+fall into decline
+### deduct `3`
+* subtract
+* the police deducted that she was guilty
+### fashionable `2`
+* he lives in a very fashionable part of Seattle
+### sit `3`
+* sit for university entrance
+* sit for sb's child
+### situated `2`
+* located
+* having six children and no income, i was badly situated.
+### situation `3`
+* the situation was complicated
+* he take various situations. = occupation/profession/vocation  a real vocation
+### skeleton `3`
+* the skeleton of the thesis
+* there will only be a skeleton staff on duty over the holiday
+### sketch `2`  
+>sketchy
+* a sketch of face
+* give sb. a sketch of the book = skeleton
